@@ -1,3 +1,19 @@
+### React + React HOOKS
+
+### React context API -> REDUX Pattern
+
+### Material Ui
+
+### Flexbox
+
+### Firebase's Firestore realtime DB
+
+### Firebase Hosting
+
+### Firebase Google Authentication (Full Login)
+
+### React flip move
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
