@@ -1,7 +1,14 @@
 import React from "react";
+import { Avatar } from "@material-ui/core";
+import "./Story.css";
 
-function Story() {
-  return <div className="story">Story Here</div>;
+function Story({ image, profileSrc, title }) {
+  return (
+    <div className="story" style={{ backgroundImage: `url(${image})` }}>
+      <Avatar src={profileSrc} />
+      <h4>{title}</h4>
+    </div>
+  );
 }
 
 export default Story;

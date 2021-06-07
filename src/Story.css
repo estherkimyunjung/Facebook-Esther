@@ -1,0 +1,8 @@
+.story {
+  position: relative;
+  width: 120px;
+  height: 200px;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
