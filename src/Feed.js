@@ -28,7 +28,7 @@ function Feed() {
       <Post
         key="2"
         profilePic="https://scontent-hou1-1.xx.fbcdn.net/v/t1.6435-9/97978132_10219020026950441_6194945872950722560_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=MDHY3XXfNvwAX8Dp-ge&tn=5-I3oUs1bFWhCvHE&_nc_ht=scontent-hou1-1.xx&oh=ef48fa510806aaa23a8bfea19b4dbaaa&oe=60E1C229"
-        message="This second message is works!!!"
+        message="The second post is works!!!"
         timestamp="This is timestamp"
         username="Esther"
       />
