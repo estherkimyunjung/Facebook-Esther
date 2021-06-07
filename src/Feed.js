@@ -23,7 +23,7 @@ function Feed() {
       {posts.map((post) => (
         <Post
           key={post.data.id}
-          profilePic={post.data.FeedprofilePic}
+          profilePic={post.data.profilePic}
           message={post.data.message}
           timestamp={post.data.timestamp}
           username={post.data.username}
