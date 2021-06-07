@@ -11,7 +11,7 @@ function StoryReal() {
         title="Esther Kim"
       />
       <Story
-        image="https://scontent-hou1-1.xx.fbcdn.net/v/t1.6435-9/173370511_10159334603844461_2161317258902749903_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=e3f864&_nc_ohc=s6XgX3ZBdn0AX_KNne8&_nc_ht=scontent-hou1-1.xx&oh=74bd36ddf76b66bd09204e821638c920&oe=60E3853Ccebook.com/jenny.kim.9022662"
+        image="https://scontent-hou1-1.xx.fbcdn.net/v/t1.6435-9/173370511_10159334603844461_2161317258902749903_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=e3f864&_nc_ohc=s6XgX3ZBdn0AX_KNne8&_nc_ht=scontent-hou1-1.xx&oh=74bd36ddf76b66bd09204e821638c920&oe=60E3853C"
         profileSrc="https://scontent-hou1-1.xx.fbcdn.net/v/t1.6435-9/133177172_10159050603684461_480211688264287295_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=uWckYpIVj-sAX-quYMv&tn=5-I3oUs1bFWhCvHE&_nc_ht=scontent-hou1-1.xx&oh=d8bfaafd3d6ededcd3c6d4912640dfc6&oe=60E34B66"
         title="Jenny Kim"
       />
