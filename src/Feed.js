@@ -6,9 +6,7 @@ import MessageSender from "./MessageSender";
 function Feed() {
   return (
     <div className="feed">
-      {/* StoryReal */}
       <StoryReal />
-      {/* MessageSender */}
       <MessageSender />
     </div>
   );
